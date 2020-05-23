@@ -30,11 +30,6 @@ var CURRENCIES = [
         validator: BTCValidator,
     },
     {
-        name: "Ripple",
-        symbol: "xrp",
-        validator: XRPValidator,
-    },
-    {
         name: "Dash",
         symbol: "dash",
         addressTypes: { prod: ["4c", "10"], testnet: ["8c", "13"] },
