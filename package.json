@@ -22,7 +22,7 @@
         "LiteCoin",
         "ltc"
     ],
-    "version": "0.5.0",
+    "version": "0.5.2",
     "author": "Chris <chris.tsim@gmail.com>",
     "homepage": "https://github.com/christsim/multicoin-address-validator",
     "license": "MIT",
